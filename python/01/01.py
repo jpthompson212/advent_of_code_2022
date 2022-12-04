@@ -3,7 +3,7 @@ elf_counter = 1
 temp_val = 0
 
 # Part 1
-with open('01_input.txt', 'r') as file:
+with open('python/01/01_input.txt', 'r') as file:
     lines = file.readlines()
     
     for line in lines:
